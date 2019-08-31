@@ -1,2 +1,2 @@
 # Placement_Resume
-Resume Format as per IITB guidelines
+Resume Format as per IIT Bombay guidelines
